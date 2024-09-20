@@ -1,5 +1,5 @@
-
 Automated Trading Bot for Bybit Futures
+
 
 This script implements an automated trading bot for Bybit Futures using the pybit library.
 It places a limit sell order with stop loss and take profit levels, and monitors the market
