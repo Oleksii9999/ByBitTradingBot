@@ -1,5 +1,4 @@
 
-"""
 Automated Trading Bot for Bybit Futures
 
 This script implements an automated trading bot for Bybit Futures using the pybit library.
